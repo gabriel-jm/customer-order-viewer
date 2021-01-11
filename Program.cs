@@ -6,7 +6,7 @@ namespace customer_order_viewer
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
